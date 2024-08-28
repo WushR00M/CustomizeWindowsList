@@ -42,7 +42,7 @@ A list of amazing programs and patches you need to make Windows 10 / 11 look lik
 ## Restore Old Features
 - ❌🟢➕🔒 Win7Games - Restore Older Programs / Built-In Games from Windows 10 and Windows 7 and below
 - ❌🟢➕🔒🏢 Windows Live Essentials 2012 - Restore Windows Movie Maker, Live Mail, and more!
-- ❌🟢➕💾 NTVDMx64 - Restores the ability to run DOS programs in Command Prompt (as well as for x64 machines)
+- ❌🟢➕💾 NTVDMx64 - Restores the ability to run DOS programs on x64 (64-bit) machines
 - ❌🟢➕🔒 8GadgetsPack - Restores the Windows Vista & Longhorn Gadgets
 
 ## Full Control Customization
@@ -63,3 +63,6 @@ A list of amazing programs and patches you need to make Windows 10 / 11 look lik
 - ❌🟢🪟💾 ElevenClock - Customize the Clock on your Taskbar
 - ❌🟢➕💾 explorerTool - Choose a custom background image for your Explorer windows
 - ❌🟢🔟💾 TaskbarDock - Quality of Life improvements and changes to customize the Windows 10 taskbar
+- ❌🟢➕💾 ExplorerBlurMica - Create a nice Mica style blurred backdrop for your Explorer windows
+- ❌🟢➕💾 DWMBlurGlass - Create a Windows 7 style Aero glass blur & theme for your system's DWM
+- ❌🟢➕💾 TranslucentFlyouts - Blurred backdrops for your popout context menus
